@@ -59,3 +59,4 @@ The system uses YOLOPv2-based perception, OpenCV image processing, and CARLA sim
 📍 Jordan  
 🔗 [LinkedIn](https://www.linkedin.com/in/joud-wardeh-083650312/)  
 📧 Email: joudwardeh@hotmail.com
+
