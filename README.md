@@ -8,15 +8,6 @@ My work focuses on developing practical AI applications including multi-agent LL
 
 ## Featured Work
 
-### 🏥 ClinicalBridge — Multi-Agent Clinical Intelligence System
-
-A multi-agent LLM-based healthcare assistant designed to transform fragmented patient information into structured **Clinical Context Briefs**.
-
-The system integrates simulated Electronic Health Records (EHR), Remote Patient Monitoring (RPM), and patient anamnesis data through specialized AI agents. An orchestrated workflow enables automated information retrieval, alert prioritization, and context generation while enforcing safety constraints to minimize hallucinations and unsupported conclusions.
-
-**Technologies:**
-`Python` · `LangChain` · `LLM Agents` · `Prompt Engineering` · `RAG Concepts`
-
 ---
 
 ### 🤖 Harry Potter Knowledge-Grounded AI Chatbot
